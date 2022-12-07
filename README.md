@@ -48,7 +48,7 @@ curl --location --request GET 'localhost:3001/api/user' \
 
 1. Procure trabalhar com containers de responsabilidades isoladas usando o driver bridge para comunicação.
 2. As rotas `api/user` e `api/users` deverão retornar conteúdo somente se existir usuário logado.
-3. Ao terminar, crie um repositório no GitHub e nos envie o link do código fonte.
-4. Não é necessário deployar nada, mas é muito importante criar um README.md explicando o que devemos fazer para rodar a aplicação.
+3. Ao terminar, crie um repositório no GitHub e nos envie o link do código-fonte.
+4. É muito importante criar um README.md explicando o que devemos fazer para rodar a aplicação.
 5. No mais é isso, faça um bom teste e boa sorte! 
 
